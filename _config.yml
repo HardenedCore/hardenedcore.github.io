@@ -19,6 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   HardenedCORE是一个由HardenedLinux社区发起的开放研讨会，其主要目标是研究固件，编译器，操作系统内核，密码工程，网络等基础架构领域的安全
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+logo: /images/hardenedcore-logo.png
 twitter_username: hardenedlinux
 github_username:  hardenedlinux
 
